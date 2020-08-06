@@ -44,11 +44,18 @@ p {
     font-size: 16px;
 }
 
-.seo {
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+span.seo {
     color: #d9dcd6;
 }
 
-.hero {
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -186,13 +193,3 @@ p {
     font-size: 36px;
 }
 
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
